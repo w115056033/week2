@@ -2,6 +2,7 @@
 > **實作者**：w115056033（郭冠良）  
 > **儲存庫網址**：[https://github.com/w115056033/week2](https://github.com/w115056033/week2)（或對應 GitHub 倉庫）  
 > **Live Demo Page**：[https://w115056033.github.io/week2/](https://w115056033.github.io/week2/)  
+<img width="1098" height="693" alt="image" src="https://github.com/user-attachments/assets/4d1c48e9-4217-4b41-8a87-f6c2bf7d5ef8" />
 
 ---
 
