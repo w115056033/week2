@@ -10,7 +10,7 @@
   // 狀態管理 (State)
   // ---------------------------------------------------------------------------
   const state = {
-    userName: localStorage.getItem('personal_hub_name') || '你的名字',
+    userName: localStorage.getItem('personal_hub_name') || '郭冠良',
     userBio: localStorage.getItem('personal_hub_bio') || '在專注與時間中探索無限可能 ✨',
     theme: localStorage.getItem('personal_hub_theme') || 'cyber-neon',
     is24Hour: localStorage.getItem('personal_hub_24h') !== 'false', // 預設 24 小時制
