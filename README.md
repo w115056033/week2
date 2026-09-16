@@ -1,7 +1,7 @@
 # 個人專屬時鐘主頁與時間儀表板 (Personal Portal & Live Timekeeper)
 > **實作者**：w115056033（郭冠良）  
 > **儲存庫網址**：[https://github.com/w115056033/week2](https://github.com/w115056033/week2)（或對應 GitHub 倉庫）  
-> **Live Demo Page**：[https://w115056033.github.io/week2/](https://huanchen1107.github.io/0916-2/)  
+> **Live Demo Page**：[https://w115056033.github.io/week2/](https://w115056033.github.io/week2/)  
 
 ---
 
