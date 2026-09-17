@@ -8,12 +8,9 @@
 
 ## 📌 1. 專案定位與教學故事線（Pedagogical Storyline）
 
-本實作是 **AIoT-DA 課程 Lecture 2** 的核心實作專案（DIC-1），堅持採用 **「零框架、零建構依賴（Zero-Dependency Vanilla Stack）」**，讓學習者能穿透當前前端框架（React、Vue 等）的層層抽象，直探 Web 原生底層運作原理：
+本實作是 **AIoT-DA 課程 Lecture 2** 的核心實作專案（DIC-1）：
 
 $$\underbrace{\text{Browser}}_{\text{宿主環境}} \longrightarrow \underbrace{\text{HTML5}}_{\text{語意結構與 ARIA}} \longrightarrow \underbrace{\text{CSS3}}_{\text{Design Tokens 與毛玻璃}} \longrightarrow \underbrace{\text{Modern JS}}_{\text{時鐘演算法與事件循環}} \longrightarrow \underbrace{\text{Web Audio API}}_{\text{原生聲學合成}} \longrightarrow \underbrace{\text{LocalStorage}}_{\text{狀態樹持久化}} \longrightarrow \underbrace{\text{GitHub Pages}}_{\text{無伺服器全球部署}}$$
-
-> 💡 **銜接後續單元的教學伏筆**：  
-> 學習者在 L2 掌握了 DOM 操作、時間狀態機與本機資料持久化機制。進入 **Lecture 3** 後，本地的時間與狀態將無縫對接 **FastAPI + SQLite** 與物聯網感測節點，將個人首頁進一步升級為即時監控感測數據與設備狀態的 **AIoT 儀表板**。
 
 ---
 
